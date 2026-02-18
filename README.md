@@ -1,8 +1,6 @@
-<h3 align="center">Hi, I'm Andreas Lind</h3>
-<p align="center"> <a href="https://www.linkedin.com/in/andreas-lind31/"> <img src="https://user-images.githubusercontent.com/70567910/137749705-66485ce1-c8ef-42af-872e-8202a6172879.jpg" width=500px; /> </a> </p>
+<h3 align="left">Hi, I'm Andreas Lind</h3>
 
-- 🔭 **Recently released** the first working version of **[booking.greenroomtraining.se](http://www.booking.greenroomtraining.se/Workouts)** which is a booking site for  [greenroomtraining.se](http://www.booking.greenroomtraining.se). An ASP.NET MVC app. Developed with: [Einar Olafsson](https://github.com/Theinar), [Émile Nestor](https://github.com/emilenestor), [Johannes Posse](https://github.com/johannesposse) & [Olof Svahn](https://github.com/OlofSvahn)
-- 🌱 **Currently learning** Go, JavaScript, Vue, Nuxt, Docker, Kubernetes
+- 🌱 **Currently learning** React, C# /.NET, Claude Code & Skills
 - 💻 **Working** as a Developer at [Fast Track](https://www.fasttrack-solutions.com/en)
 - 📝 I **regularly read articles** on <a href="https://medium.com/">Medium</a>
 - 🐣 My **[Exercism](https://exercism.org/dashboard) account**: [andreaslind31](https://exercism.org/profiles/andreaslind31)
